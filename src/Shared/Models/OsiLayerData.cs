@@ -1,4 +1,4 @@
-namespace OsiModelDemo.Models;
+namespace Shared.Models;
 
 public class OsiLayerData
 {

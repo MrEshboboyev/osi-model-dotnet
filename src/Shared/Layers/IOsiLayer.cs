@@ -1,6 +1,6 @@
-using OsiModelDemo.Models;
+using Shared.Models;
 
-namespace OsiModelDemo.Layers;
+namespace Shared.Layers;
 
 public interface IOsiLayer
 {
